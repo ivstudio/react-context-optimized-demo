@@ -1,2 +1,2 @@
-# react-context-optimized-demo
+# react-context-demo
 Created with CodeSandbox
