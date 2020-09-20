@@ -1,4 +1,4 @@
-## react-context-demo
+## React Context
 
 React Context can help us share "global" data without having to manually pass it down between descendant components at different nesting levels of the tree.
 
